@@ -1,0 +1,26 @@
+"pti_band","dti_band","approval_status","app_count"
+"15-18%","30-50%",Declined,2
+"15-18%","50-70%",Declined,2
+"15-18%","70%+ (Exceeds Cap)",Declined,4
+"15-18%",<30%,Approved,1
+"18%+ (High Risk)","30-50%",Approved,5
+"18%+ (High Risk)","50-70%",Approved,2
+"18%+ (High Risk)","50-70%",Declined,4
+"18%+ (High Risk)","70%+ (Exceeds Cap)",Approved,2
+"18%+ (High Risk)",<30%,Approved,3
+"18%+ (High Risk)",<30%,Declined,2
+<10%,"30-50%",Approved,7
+<10%,"30-50%",Declined,9
+<10%,"50-70%",Approved,6
+<10%,"50-70%",Declined,7
+<10%,"70%+ (Exceeds Cap)",Approved,4
+<10%,"70%+ (Exceeds Cap)",Declined,8
+<10%,<30%,Approved,6
+<10%,<30%,Declined,1
+<15%,"30-50%",Approved,4
+<15%,"30-50%",Declined,1
+<15%,"50-70%",Approved,5
+<15%,"50-70%",Declined,1
+<15%,"70%+ (Exceeds Cap)",Approved,4
+<15%,"70%+ (Exceeds Cap)",Declined,3
+<15%,<30%,Approved,7
