@@ -8,3 +8,14 @@ SELECT
 FROM loan_applications
 GROUP BY approval_status
 ORDER BY approval_status;
+
+
+
+
+
+
+
+
+
+
+
